@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supervised Delivery"
+  short_description: "Coordinate milestones with independent review"
+  default_prompt: "Use $supervised-delivery to define a milestone, route execution, and verify the result."
